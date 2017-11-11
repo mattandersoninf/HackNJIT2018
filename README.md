@@ -3,5 +3,11 @@ Website to help bring awareness to research opportunities to students and teache
 
 ---
 Team Members:
-	
 ---
+-Chidanand Khode
+ 
+-Kevin Aizic
+ 
+-Connor Watson
+ 
+-Matthew Anderson
