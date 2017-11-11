@@ -2,12 +2,12 @@
 Website to help bring awareness to research opportunities to students and teachers at NJIT.
 
 ---
-Team Members:
+**Team Members:**
 ---
--Chidanand Khode
+-Chidanand Khode   (FRONT END)
  
--Kevin Aizic
+-Kevin Aizic       (FRONT END)
  
--Connor Watson
+-Connor Watson     (BACK END)
  
--Matthew Anderson
+-Matthew Anderson  (BACK END)
