@@ -1,6 +1,6 @@
-# HackNJIT2018
+# ResPort
 ------
-[Hackathon Project] ResPort is a portal intended to be used by the students and faculty of NJIT to help bring awareness to research opportunities for students and teachers. While this project is not 100% ready, current functionalities include:
+[Hackathon Project] ResPort (RESearch PORTal) is a portal intended to be used by the students and faculty of NJIT to help bring awareness to research opportunities for students and teachers. While this project is not 100% ready, current functionalities include:
 
 Login Side:
  - Login by NJIT students only (We have functionality which ensures only NJIT students have access)
