@@ -1,6 +1,6 @@
 # ResPort
 ------
-[Hackathon Project] ResPort (RESearch PORTal) is a portal intended to be used by the students and faculty of NJIT to help bring awareness to research opportunities for students and teachers. While this project is not 100% ready, below are some of the current functionalities we built within 24 hours of the competition:
+[Hackathon Project] ResPort (RESearch PORTal) is a portal intended to be used by the students and faculty of New Jersey Institute of Technology (NJIT) to help bring awareness to research opportunities for students and teachers. As of now, the project is deployed on NJIT's debug servers (afsaccess1.njit.edu), which means no one outside NJIT network can use the portal. While this project is not 100% ready, below are some of the current functionalities we built within 24 hours of the competition:
 
 Current Functionalities
 ---
@@ -19,7 +19,7 @@ Student Side:
  - Browse through different research opportunities and filter by college name within NJIT
 
 
-Performance @ HackNJIT: 3rd place in entire competition.
+Performance @ HackNJIT: 3rd place finish in entire competition
 
 **Team Members:**
 
@@ -53,4 +53,7 @@ Student Side:
  - Heart an opportunity 
  - Browse through hearted opportunities
  - Filter by key words when browsing opportunities
- - See teacher email at bottom of each opportunity so student can contact them, separately (maybe for future versions, use in-portal messaging).
+ - See teacher email at bottom of each opportunity so student can contact them, separately (maybe for future versions, use in-portal messaging)
+
+Additional:
+ - Deploy the portal on NJIT's web servers, so that any faculty or student belonging to NJIT can access the portal when they are physically out of NJIT networks.
