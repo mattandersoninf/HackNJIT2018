@@ -21,7 +21,7 @@ Student Side:
 
 Performance @ HackNJIT: 3rd place finish in entire competition
 
-Technologies Used:
+Technologies Used
 ---
 
 Here is a list of technologies we used for creating ResPort:
