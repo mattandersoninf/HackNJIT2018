@@ -1,5 +1,5 @@
 # ResPort
-------
+
 [Hackathon Project] ResPort (RESearch PORTal) is a portal intended to be used by the students and faculty of New Jersey Institute of Technology (NJIT) to help bring awareness to research opportunities for students and teachers. As of now, the project is deployed on NJIT's debug servers (afsaccess1.njit.edu), which means no one outside NJIT network can use the portal. While this project is not 100% ready, below are some of the current functionalities we built within 24 hours of the competition:
 
 Current Functionalities
@@ -21,9 +21,24 @@ Student Side:
 
 Performance @ HackNJIT: 3rd place finish in entire competition
 
-**Team Members:**
+Technologies Used:
+---
 
-------
+Here is a list of technologies we used for creating ResPort:
+
+Front End:
+ - JavaScript and JSON data
+ - AJAX
+ - PHP and cURL
+ - HTML
+ - CSS
+
+Back End:
+ - PHP and cURL
+ - MySQL database
+
+**Team Members:**
+---
 
 - Chidanand Khode   (FRONT END)
  
@@ -32,8 +47,6 @@ Performance @ HackNJIT: 3rd place finish in entire competition
 - Connor Watson     (BACK END)
  
 - Matthew Anderson  (BACK END)
-
-------
 
 What's Next?
 ---
