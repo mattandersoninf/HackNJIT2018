@@ -1,0 +1,114 @@
+body
+{
+	background-color: rgb(50,58,69);
+	background-repeat: no-repeat;
+}
+
+#logo
+{
+	margin: 10px;
+	text-align: center;
+	list-style-type:none;
+	margin: 0;
+	padding: 0
+}
+
+.formData
+{
+	position:relative;
+	left:-2%;
+	top:5%;
+  	width: 100%;
+  	display: flex;
+  	justify-content: center;
+  	text-align:left;
+}
+
+#formLabels
+{ 
+	position:relative;
+	left:2.5%;
+	font-family: "Lucida Console"
+	font-size: 15px;
+	display: block; 
+	width: 100px; 
+	margin-right: 50px;
+	color:white;
+}
+
+#user, #pwd
+{
+	border-radius:10px;
+	border:none;
+	outline:none;
+	text-align:center;
+	padding:5px;
+}
+
+.loginContainer
+{
+	position:relative;
+	left:2%;
+	cursor:pointer;
+	color:white;
+}
+
+.check
+{
+	position:relative;
+	margin-left:10px;
+	margin-right:50px;
+}
+
+button
+{
+	position:relative;
+	background-color: #e7e7e7;
+    border: none;
+    color: #262C35;
+    left:1.5%;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 12px;
+ 	cursor: pointer;
+	margin: 5px;
+	outline:none;
+	border:none;
+}
+
+button:hover span 
+{
+  padding-right: 15px;
+  color:red;
+}
+
+button:hover span:after 
+{
+  opacity: 1;
+  right: 0;
+}
+
+button span 
+{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+}
+
+button span:after 
+{
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  right: -25px;
+  transition: 0.5s;
+}
+
+#verification
+{
+	position:relative;
+	left:0.1%;
+	color:white;
+}
